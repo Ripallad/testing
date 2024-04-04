@@ -3,7 +3,7 @@ import 'dart:convert';
 
 import 'package:http/http.dart' as http;
 
-import 'package:testing/todomodel.dart';
+import 'package:testing/model/todomodel.dart';
 
 class ApiService {
   final http.Client myhttp;
