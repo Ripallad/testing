@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:http/http.dart';
 import 'package:mocktail/mocktail.dart';
-import 'package:testing/commentapi.dart';
+import 'package:testing/logic/commentapi.dart';
 import 'package:testing/model/comentmodel.dart';
 
 import 'apiservice_test.dart';
